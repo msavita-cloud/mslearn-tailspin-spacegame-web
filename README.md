@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/azure-devops-mcloud/Azure%20Space%20Game%20-%20web%20-%20PipelineDevOps%20Demo%20Generator%20site/_apis/build/status/msavita-cloud.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/azure-devops-mcloud/Azure%20Space%20Game%20-%20web%20-%20PipelineDevOps%20Demo%20Generator%20site/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
